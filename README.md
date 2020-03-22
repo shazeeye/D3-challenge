@@ -22,9 +22,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 
 ### Core Assignment: D3 Dabbler (Required Assignment)
-
-
-https://github.com/shazeeye/D3-challenge/blob/master/Health%20Risks%20in%20the%20US%20.png
+![Interactive chart on health risks in teh US](https://github.com/shazeeye/D3-challenge/blob/master/Health%20Risks%20in%20the%20US%20.png)
 
 Created a scatter plot between two the data variables such as `Healthcare vs. Poverty` and `Smokers vs. Age`.
 
