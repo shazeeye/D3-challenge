@@ -24,6 +24,8 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 ### Core Assignment: D3 Dabbler (Required Assignment)
 
 
+https://github.com/shazeeye/D3-challenge/blob/master/Health%20Risks%20in%20the%20US%20.png
+
 Created a scatter plot between two the data variables such as `Healthcare vs. Poverty` and `Smokers vs. Age`.
 
 Used the D3 techniques, created a scatter plot that represented each state with circle elements. Coded this graphic in the `app.js` file of my homework directory— pulled in the data from `data.csv` by using the `d3.csv` function.
